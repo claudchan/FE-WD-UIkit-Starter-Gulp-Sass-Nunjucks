@@ -1,0 +1,8 @@
+<footer>
+  <hr>
+  <div class="uk-container">
+    <div>
+      <h3>Sticky Footer</h3>
+    </div>
+  </div>
+</footer>
