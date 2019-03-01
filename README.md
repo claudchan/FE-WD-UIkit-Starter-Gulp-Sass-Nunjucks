@@ -18,7 +18,7 @@ npm install gulp-cli -g
 
 ### Front-end Framework ###
 
-* [UIkit](https://getuikit.com/)
+* [UIkit 3.0.3](https://getuikit.com/)
 
 ### JavaScript framework ###
 
